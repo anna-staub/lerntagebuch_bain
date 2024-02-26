@@ -1,6 +1,6 @@
-# Vorlage für ein Lerntagebuch mit GitHub Pages
+# Anleitung und Hinweise für dieses Lerntagebuch mit GitHub Pages
 
-Diese Vorlage kann verwendet werden, um ein Blog mit GitHub Pages für den Kurs [Bibliotheks- und Archivinformatik](https://github.com/felixlohmeier/bibliotheks-und-archivinformatik) zu erstellen.
+Dieses Repository enthält meinen Blog mit GitHub Pages für den Kurs [Bibliotheks- und Archivinformatik](https://github.com/felixlohmeier/bibliotheks-und-archivinformatik). Im README befindet sich aktuell noch die Anleitung zur Anpassung und Personalisierung der Vorlage von Felix. Ausgeführt sind Schritte 1 - 6.
 
 1. Bei GitHub anmelden
 2. Mit dem Button [Use this template](https://github.com/felixlohmeier/lerntagebuch/generate) ein eigenes Repository anlegen
