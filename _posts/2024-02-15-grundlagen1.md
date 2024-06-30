@@ -2,8 +2,10 @@
 title: "Technische Grundlagen 1/2"
 date: 2024-02-15
 ---
+Dieser Blogbeitrag fasst die Inhalte der ersten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am Vormittag des 14. Februar 2024 statt und trug den Titel "Technische Grundlagen 1". 
+Den Beitrag zur zweiten Veranstaltung "Technische Grundlagen 2", welche am gleichen Tag am Nachmittag stattfand, ist [hier](./2024-02-16-grundlagen2) zu finden.
 
-# Inhalte der Vorlesung
+# Inhalte der Lehrveranstaltung
 - Lehrinhalte und Organisatorisches
 - Leistungsnachweis
 - Einrichten der Arbeitsumgebung (GitHub)
@@ -31,6 +33,6 @@ Während dem Kurs arbeiten wir mit GitHub. GitHub basiert auf der Versionierungs
 Zum Einen wurde dieses Lerntagebuch mit einem GitHub Repository und GitHub Pages erstellt, zum Anderen arbeiten wir mit den sogenannten Codespaces, also virtuellen Entwicklungsumgebungen, die man ebenfalls auf GitHub erstellen und nutzen kann. Wenn man einen Codespace eröffnet, wird eine virtuelle Entwicklungsumgebung mit einem Entwicklungsserver und einer Benutzeroberfläche erstellt. Die Benutzeroberfläche entspricht der von VisualStudio Code, was für mich von Vorteil ist, da ich bereits in der Vergangenheit mit VisualStudio Code gerabeitet habe und mir die Benutzeroberfläche vertraut ist. Im linken und im oberen Bereich der Oberfläche werden die geöffneten Dateien angezeigt, die man dort auch bearbeiten kann. Darunter befindet sich ein Bereich mit verschiedenen Reitern, wovon vor allem das Terminal für uns wichtig ist. Das Terminal  bzw die Kommandozeile bietet vollen Administrationszugriff auf die virtuelle Maschine. Als Standard ist eine Linux Shell eingestellt. Diese haben wir ebenfalls bereits im Modul "Architektur von Informationssystemen" kennengelernt, somit ist auch das nicht komplett neu. Zum Auffrischen und Nachschlagen der Linux-Befehle nutze ich dieses [CheatSheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/).
 Ein Vorteil der Codespaces ist es, dass sie innert Sekunden erstellt und wieder gelöscht sind, und sich damit sehr gut für Übungen eignen, um Dinge auszuprobieren und wieder zu verwerfen. Möchte man die Arbeit in einem Codespace nicht verwerfen, kann man ihn auch ganz einfach in ein Repository speichern. Ein weiterer Vorteil ist das Gratis-Kontingent bei Codespaces - eigentlich bezahlt man die Nutzung der Codespaces basierend auf der Nutzungsdauer, jedoch sind 60 Stunden pro Monat kostenfrei. Dieses Kontingent wird im Rahmen des Kurses wohl kaum ausgenutzt. 
 
-Nach der Einrichtung von GitHub Accounts sowie dem gemeinsamen Einstieg in die Codespaces war die Zeit für die erste Vorlesung um.
+Nach der Einrichtung von GitHub Accounts sowie dem gemeinsamen Einstieg in die Codespaces war die Zeit für die erste Lehrveranstaltung um. Welche Themen am Nachmittag in der zweiten Lehrveranstaltung behandelt wurden, erfahren Sie im nächsten Blogbeitrag.
 
 
