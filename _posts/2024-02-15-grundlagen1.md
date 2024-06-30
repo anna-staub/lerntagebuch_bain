@@ -5,12 +5,15 @@ date: 2024-02-15
 Dieser Blogbeitrag fasst die Inhalte der ersten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am Vormittag des 14. Februar 2024 statt und trug den Titel "Technische Grundlagen 1". 
 Den Beitrag zur zweiten Veranstaltung "Technische Grundlagen 2", welche am gleichen Tag am Nachmittag stattfand, ist [hier](./2024-02-16-grundlagen2) zu finden.
 
+-----
+
 # Inhalte der Lehrveranstaltung
 - Lehrinhalte und Organisatorisches
 - Leistungsnachweis
 - Einrichten der Arbeitsumgebung (GitHub)
 
 -----
+
 ## Lehrinhalte und Organisatorisches
 Die Leitidee des Moduls besteht darin, die in Bibliotheken und Archiven eingesetzten Softwares und Technologien kennenzulernen, Funktionsweisen von Bibliothekssystemen, Archivinformationssystemen und ähnlichen Systemen zu untersuchen, unterschiedliche quelloffene Software-Lösungen zu evaluieren und diese auch anzuwenden.
 Folgende Themen bilden die Schwerpunkte des Moduls:
@@ -23,11 +26,13 @@ Folgende Themen bilden die Schwerpunkte des Moduls:
 7. Linked Data
 
 -----
+
 ## Leistungsnachweis
 Da das Modul 4 ECTS Punkte zählt, beträgt der zu leistende Zeitumfang 40 Stunden Vorlesungszeit und 80 Stunden Selbststudium.
 Der Leistungsnachweis besteht aus dem vorliegenden Lerntagebuch, welches bis zum 7. Juli abgegeben werden muss. Das Lerntagebuch enthält zu jeder Lehrverantstaltung einen Blogartikel mit 3000-4000 Zeichen, sowie einen Blogartikel mit 1000 – 2000 Zeichen zu jeder grösseren Übung.
 
 -----
+
 ## Einrichten der Arbeitsumgebung (GitHub)
 Während dem Kurs arbeiten wir mit GitHub. GitHub basiert auf der Versionierungssoftware Git und ist grundsätzlich eine Ablage für Code, auf der man gemeinsam an Code arbeiten kann, und auf der alle Änderungen am Code und an den Dateien versioniert gespeichert werden. Wie also nutzen wir GitHub im Rahmen des Moduls?
 Zum Einen wurde dieses Lerntagebuch mit einem GitHub Repository und GitHub Pages erstellt, zum Anderen arbeiten wir mit den sogenannten Codespaces, also virtuellen Entwicklungsumgebungen, die man ebenfalls auf GitHub erstellen und nutzen kann. Wenn man einen Codespace eröffnet, wird eine virtuelle Entwicklungsumgebung mit einem Entwicklungsserver und einer Benutzeroberfläche erstellt. Die Benutzeroberfläche entspricht der von VisualStudio Code, was für mich von Vorteil ist, da ich bereits in der Vergangenheit mit VisualStudio Code gerabeitet habe und mir die Benutzeroberfläche vertraut ist. Im linken und im oberen Bereich der Oberfläche werden die geöffneten Dateien angezeigt, die man dort auch bearbeiten kann. Darunter befindet sich ein Bereich mit verschiedenen Reitern, wovon vor allem das Terminal für uns wichtig ist. Das Terminal  bzw die Kommandozeile bietet vollen Administrationszugriff auf die virtuelle Maschine. Als Standard ist eine Linux Shell eingestellt. Diese haben wir ebenfalls bereits im Modul "Architektur von Informationssystemen" kennengelernt, somit ist auch das nicht komplett neu. Zum Auffrischen und Nachschlagen der Linux-Befehle nutze ich dieses [CheatSheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/).
