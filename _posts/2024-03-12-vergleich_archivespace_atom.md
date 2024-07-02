@@ -2,7 +2,7 @@
 title: "Übung: Vergleich von AtoM und ArchivesSpace"
 date: 2024-03-12
 ---
-In diesem Blogbeitrag geht es um einen Vergleich der beiden Archivsoftwares AtoM und ArchivesSpace. Beide Systeme wurden über einen Demo-Zugang getestet. Die Übung wurde uns im Nachgang zur Lehrveranstaltung "Funktion und Aufbau von Archivsystemen" Blogbeitrag  [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/03/12/archivsysteme.html)) aufgegeben.
+In diesem Blogbeitrag geht es um einen Vergleich der beiden Archivsoftwares AtoM und ArchivesSpace. Beide Systeme wurden über einen Demo-Zugang getestet. Die Übung wurde uns im Nachgang zur Lehrveranstaltung "Funktion und Aufbau von Archivsystemen" (Blogbeitrag dazu [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/03/12/archivsysteme.html)) aufgegeben.
 Der Beitrag zur folgenden Lehrveranstaltung "Repository Software für Publikationen und Forschungsdaten" ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/03/26/repo-software_fuer_publikationen_und_forschungsdaten.html) zu finden.
 
 Die Startseiten der Systeme unterscheiden sich relativ stark. Während AtoM auf den ersten Blick eher überladen wirkt, kommt ArchivesSpace minimalistisch daher. ArchivesSpace bietet lediglich zwei Hauptmenüpunkte "Browse" und "Create" sowie einem Suchschlitz, AtoM bietet nebst einer grösseren Menüleiste noch Vorschläge für Stöber-Kriterien sowie die beliebtesten Bestände/Serien der Woche.
