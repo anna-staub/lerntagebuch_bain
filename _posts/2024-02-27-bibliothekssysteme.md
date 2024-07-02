@@ -1,6 +1,6 @@
 ---
 title: "Funktion und Aufbau von Bibliothekssystemen"
-date: 2024-02-15
+date: 2024-02-27
 ---
 Dieser Blogbeitrag fasst die Inhalte der dritten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am 27. Februar 2024 statt und trug den Titel "Funktion und Aufbau von Bibliothekssystemen".
 Der Blogbeitrag zur zweiten Lehrveranstaltung "Technische Grundlagen 2" ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/02/16/grundlagen2.html) zu finden, der Beitrag zur vierten Lehrveranstaltung "Funktion und Aufbau von Archivsystemen" [hier] .
