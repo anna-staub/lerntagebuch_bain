@@ -8,7 +8,7 @@ Der Beitrag zur folgenden Lehrveranstaltung "Repository Software für Publikatio
 Die Startseiten der Systeme unterscheiden sich relativ stark. Während AtoM auf den ersten Blick eher überladen wirkt, kommt ArchivesSpace minimalistisch daher. ArchivesSpace bietet lediglich zwei Hauptmenüpunkte "Browse" und "Create" sowie einem Suchschlitz, AtoM bietet nebst einer grösseren Menüleiste noch Vorschläge für Stöber-Kriterien sowie die beliebtesten Bestände/Serien der Woche.
 
 Obwohl mir die minimalistische Oberfläche von ArchivesSpace auf den ersten Blick mehr zusagt, finde ich die Bedienung von AtoM dank der flacheren Menühierarchie intuitiver. Ausserdem scheint AtoM flexibler beim Erfassen von Daten: will man z.B. eine Person erfassen, so muss man bei ArchivesSpace bereits vor dem Öffnen der Maske entscheiden, ob es sich um eine Person oder eine Familie handelt. Möchte man diese Entscheidung im Nachhinein ändern, muss man die ganze Datenmaske noch einmal neu ausfüllen. Bei AtoM hingegen wählt man lediglich "Authority Record" und kann danach zu jedem Zeitpunkt die Art der Authority in der Datenmaske anpassen.
-![Person erstellen in ArchivesSpace](lerntagebuch_bain/assets/archivesspaces_person)
+![Person erstellen in ArchivesSpace](/lerntagebuch_bain/assets/archivesspaces_person)
 
 Was ich bei ArchivesSpace super finde, ist das "Inhaltsverzeichnis", welches jeweils beim Öffnen einer Datenmaske am linken Rand erscheint. So weiss ich auf einen Blick, welche Bereiche mich noch erwarten, und auch die Navigation dahin fällt leicht. Schade ist, dass die Bereiche nicht collapsible sind wie bei ArchivesSpace.
 
