@@ -14,6 +14,7 @@ Obwohl mir die minimalistische Oberfläche von ArchivesSpace auf den ersten Blic
 
 *Person erfassen auf ArchivesSpace*
 
+
 <img width="600" alt="Person erfassen auf AtoM" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/e86d5db2-093b-419e-8f1e-f060f370b2d1">
 
 *Person erfassen auf AtoM*
@@ -22,9 +23,12 @@ Obwohl mir die minimalistische Oberfläche von ArchivesSpace auf den ersten Blic
 Was ich bei ArchivesSpace super finde, ist das "Inhaltsverzeichnis", welches jeweils beim Öffnen einer Datenmaske am linken Rand erscheint. So weiss ich auf einen Blick, welche Bereiche mich noch erwarten, und auch die Navigation dahin fällt leicht. Schade ist, dass die Bereiche nicht einklappbar sind wie bei ArchivesSpace.
 
 <img width="400" alt="archivesspaces_inhaltsverzeichnis" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/02f6a484-de17-4125-b732-e5749f81288c">
+
 *"Inhaltsverzeichnis" links beim Öffnen einer Datenmaske auf ArchivesSpace*
 
+
 <img width="600" alt="atom_collapsible" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/1a5ad80a-3df7-4b6d-9373-902d37b942d4">
+
 *Einklappbare Bereiche auf AtoM*
 
 
