@@ -2,7 +2,7 @@
 title: "Funktion und Aufbau von Archivsystemen"
 date: 2024-03-12
 ---
-Dieser Blogbeitrag fasst die Inhalte der vierten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am 5. März 2024 statt und trug den Titel "Funktion und Aufbau von Archivsystemen".
+Dieser Blogbeitrag fasst die Inhalte der vierten und fünften Lehrveranstaltungen des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltungen fanden am 5. und am 12. März 2024 statt und trugen den Titel "Funktion und Aufbau von Archivsystemen".
 Der Blogbeitrag zur vorherigen Lehrveranstaltung "Funktion und Aufbau von Bibliothekssystemen" ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/02/27/bibliothekssysteme.html) zu finden, der Beitrag zur folgenden Lehrveranstaltung "Repository-Software für Publikationen und Forschungsdaten" [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/03/26/repo-software_fuer_publikationen_und_forschungsdaten.html).
 Dazwischen gibt es [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/03/12/vergleich_archivespace_atom.html) noch einen Beitrag zur Übung "Vergleich von ArchiveSpaces und AtoM" .
 
