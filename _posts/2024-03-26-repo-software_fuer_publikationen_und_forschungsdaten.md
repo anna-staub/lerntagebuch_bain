@@ -16,7 +16,9 @@ Der Blogbeitrag zur vorherigen Lehrveranstaltung "Funktion und Aufbau von Archiv
 
 ## Open Science, Open Access und Open Data
 Open Access und Open Data sind Begriffe, die aus dem Bereich der Open Science stammen. **Open Science** beschreibt Strategien und Verfahren, deren Ziel es ist, alle Bestandteile des wissenschaftlichen Prozesses offen zugänglich und nachnutzbar zu machen, um damit Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen erkenntnissen zu eröffnen (Neuschäfer, 2015).
+
 Ziel von **Open Access** ist es, wissenschaftliche Publikationen kostenlos und möglichst ohne technische und rechtliche Barrieren für alle Menschen frei zugänglich und nutzbar zu machen (BOAI, 2002). Der Grundgedanke dahinter ist, dass wissenschaftliche Forschung häufig öffentlich finanziert wird, und deren Ergebnisse daher auch öffentlich zugänglich sein sollten. Ausserdem unterstützt ein freier und schneller Zugang zu wissenschaftlichen Ergebnissen die Kommunikation und Effizienz in der Forschung, sowie die Zusammenarbeit und Vernetzung von Forschenden. Die Umsetzung von Open Access kann über zwei Strategien erfolgen: der goldene und der grüne Weg. Der goldene Weg bedeutet, dass eine Arbeit bereits in der Erstveröffentlichung Open Access ist, also in einer Open Access Zeitschrift erscheint. Beim grünen Weg wird die Arbeit bei der Zweitveröffentlichung in einem Open Access Repositorium publiziert, und so öffentlich zugänglich gemacht. 
+
 Bei **Open Data** geht es nicht um die Publikationen, sondern um die Forschungsdaten, die den wissenschaftlichen Erkenntnissen zugrunde liegen (z.B. Messungen oder Befragungen). Ein offener Zugang und eine freie Nachnutzung dieser Daten fördert zum einen die Nachvollziehbarkeit und Transparenz, zum anderen wird es so ermöglicht, mit bestehenden Daten weitergehende Forschung zu betreiben.
 
 -----
