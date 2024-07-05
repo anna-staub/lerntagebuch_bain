@@ -33,6 +33,8 @@ DSpace ist eine Repository-Software, mit der Publikationen und Forschungsdaten v
 
 -----
 
+
+
 Quellen:
 
 Ackermann Krzemnicki, S., & Hägele, B. F. (2016). Die Standardisierung von Forschungsinformationen an Schweizer universitären Hochschulen. University_of_Basel. http://edoc.unibas.ch/54788/
