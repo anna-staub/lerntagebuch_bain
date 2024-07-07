@@ -1,5 +1,5 @@
 ---
-title: "Technische Grundlagen 1/2"
+title: "Technische Grundlagen 1"
 date: 2024-02-15
 ---
 Dieser Blogbeitrag fasst die Inhalte der ersten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am 4. Februar 2024 statt und trug den Titel "Technische Grundlagen 1". 
