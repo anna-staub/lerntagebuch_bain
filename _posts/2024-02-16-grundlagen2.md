@@ -1,10 +1,10 @@
 ---
-title: "Technische Grundlagen 2/2"
+title: "Technische Grundlagen 2"
 date: 2024-02-16
 ---
 Dieser Blogbeitrag behandelt die Inhalte der zweiten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik". Die Veranstaltung fandam 14. Februar 2024 statt und trug den Titel "Technische Grundlagen 2".
 Den Beitrag zur vorherigen Lehrveranstaltung, welche am gleichen Tag am Vormittag stattfand, ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/02/15/grundlagen1.html) zu finden.
-Den Beitrag zur folgenden Veranstaltung zum Thema "Funktion und Aufbau von Bibliothekssystemen", bei dem es erstmals richtig um inhaltliche Themen geht, ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/02/27/bibliothekssysteme.html) zu finden.
+Den Beitrag zur folgenden Veranstaltung zum Thema "Funktion und Aufbau von Bibliothekssystemen", bei dem es erstmals um inhaltliche Themen geht, ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/02/27/bibliothekssysteme.html) zu finden.
 
 -----
 
@@ -17,12 +17,12 @@ Den Beitrag zur folgenden Veranstaltung zum Thema "Funktion und Aufbau von Bibli
 -----
 
 ## Codespaces: Time-Out Zeit erhöhen
-Die Einführung in die GitHub Codespaces wurde im ersten Blogpost beschrieben. In der zweiten Veranstaltung lernten wir dazu noch, wie man die Time-Out Zeit erhöht, sodass sich die Codespaces nicht wie per default nach 30 Minuten Inaktivität selbst beenden, sondern erst nach 240 Minuten.
+Die Einführung in die GitHub Codespaces wurde im [ersten Blogbeitrag](https://anna-staub.github.io/lerntagebuch_bain/2024/02/15/grundlagen1.html) beschrieben. In der zweiten Veranstaltung lernten wir dazu noch, wie man die Time-Out Zeit erhöht, sodass sich die Codespaces nicht wie per default nach 30 Minuten Inaktivität selbst schliessen, sondern erst nach 240 Minuten.
 
 -----
 
 ## Grundlagen der Unix Shell
-Um die Grundlagen der Unix Shell kennenzulernen oder zu repetieren, lösten wir in eigenem Tempo Aufgaben der Library Carpentry Lessons zur Unix Shell unter Verwendung der GitHub Codespaces. Obwohl ich viele Shell-Befehle bereits einmal kennengelernt hatte, tat mir die Auffrischung sehr gut, da ich sich in der Zwischenzeit doch einiges wieder aus meinem Gedächtnis verflüchtigt hatte. So gelang mir z.B. die Navigation in der Shell auf Anhieb, die Arbeit mit Dateien und Befehlen wie less, mv oder history hingegen eher harzig. Da war ich froh, dass wir einige Übungen dazu ausführen konnten. Das Zählen und Durchsuchen von Dateiinhalten sowie das Sortieren von Dateien nach bestimmten Kriterien war mir neu.
+Um die Grundlagen der Unix Shell kennenzulernen oder zu repetieren, lösten wir in eigenem Tempo Aufgaben der [Library Carpentry Lessons zur Unix Shell](https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html) unter Verwendung der GitHub Codespaces. Obwohl ich viele Shell-Befehle bereits einmal kennengelernt hatte, tat mir die Auffrischung sehr gut, da ich sich in der Zwischenzeit doch einiges wieder aus meinem Gedächtnis verflüchtigt hatte. So gelang mir z.B. die Navigation in der Shell auf Anhieb, die Arbeit mit Dateien und Befehlen wie less, mv oder history hingegen eher harzig. Da war ich froh, dass wir einige Übungen dazu ausführen konnten. Das Zählen und Durchsuchen von Dateiinhalten sowie das Sortieren von Dateien nach bestimmten Kriterien war mir neu.
 Ein Befehl, den ich mir herausgeschrieben habe, ist ctrl+c zum Beenden jeglicher Prozesse in der Shell. Praktische Cheatsheets für die wichtigsten Befehle sind:
 -	[Library Carpentry Reference](https://librarycarpentry.org/lc-shell/reference.html)
 -	[Cheatsheet für Linux](https://devhints.io/linux)
