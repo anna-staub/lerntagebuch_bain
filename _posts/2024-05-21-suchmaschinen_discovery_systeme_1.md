@@ -16,7 +16,7 @@ Der Blogbeitrag zur vorherigen Lehrveranstaltung "Schnittstellen nutzen" ist [hi
 -----
 
 ## Discovery Systeme
-Unter einem Discovery System versteht man ein bibliothekarisches Suchsystem, das auf Suchmaschinentechnologien basiert. Discovery Systeme sind eine moderne Alternative zu den klassischen Bibliothekskatalogen. Während klassische Bibliothekskataloge möglichst genaue Ergebnisse liefern, liefern Discovery Systeme sehr viele Suchergebnisse, die wie bei anderen Suchmaschinen mit Hilfe eines Algorithmus nach Relevanz sortiert werden. Discovery Systeme bestehen aus einer Suchmaschine, in der alle Katalogeinträge indexiert werden, und einer Oberfläche, in der die Nutzenden ihre Suchanfragen eingeben. Die Oberfläche leitet die Anfrage an die Suchmaschine weiter, erhält von dieser eine Ergebnisliste zurück und bereitet diese grafisch auf für die Nutzenden.
+Unter einem Discovery System versteht man ein bibliothekarisches Suchsystem, das auf Suchmaschinentechnologien basiert. Discovery Systeme sind eine moderne Alternative zu den klassischen Bibliothekskatalogen. Während klassische Bibliothekskataloge möglichst genaue Ergebnisse liefern, liefern Discovery Systeme sehr viele Suchergebnisse, die, wie dies auch bei anderen Suchmaschinen der Fall ist, mit Hilfe eines Algorithmus nach Relevanz sortiert werden. Discovery Systeme bestehen aus einer Suchmaschine, in der alle Katalogeinträge indexiert werden, und einer Oberfläche, in der die Nutzenden ihre Suchanfragen eingeben. Die Oberfläche leitet die Anfrage an die Suchmaschine weiter, erhält von dieser eine Ergebnisliste zurück und bereitet diese grafisch auf für die Nutzenden.
 
 -----
 
