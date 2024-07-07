@@ -2,7 +2,7 @@
 title: "Schnittstellen nutzen"
 date: 2024-05-08
 ---
-Dieser Blogbeitrag fasst die Inhalte der zehnten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am 7. Mai 2024 statt und trug den Titel "Metadaten modellieren und Schnittstellen nutzen 2/2".
+Dieser Blogbeitrag fasst die Inhalte der zehnten Lehrveranstaltung des Moduls "Bibliotheks- und Archivinformatik" zusammen. Die Veranstaltung fand am 7. Mai 2024 statt und trug den Titel "Schnittstellen nutzen".
 Der Blogbeitrag zur vorherigen Lehrveranstaltung "Metadaten modellieren" ist [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/03/12/metadaten_schnittstellen_1_openrefine.html) zu finden, der Beitrag zur folgenden Lehrveranstaltung "Suchmaschinen und Discovery Systeme 1" [hier](https://anna-staub.github.io/lerntagebuch_bain/2024/05/21/suchmaschinen_discovery_systeme_1.html).
 
 -----
@@ -17,8 +17,9 @@ Der Blogbeitrag zur vorherigen Lehrveranstaltung "Metadaten modellieren" ist [hi
 ## Ausgangsdaten
 In den bisherigen Lehrveranstaltungen haben wir uns mit Metadaten in den Systemen Koha, ArchivesSpace, DSpace und OpenRefine beschäftigt. In der heutigen Veranstaltung ging es darum, wie Metadaten von ebensolchen Systemen geharvested und einheitlich in das Datenformat MARC21-XML konvertiert werden können (siehe Schaubild). Die Daten aus Koha (Format: MARC21-XML), ArchivesSpace (Format: EAD), DSpace (Format: Dublin Core) und OpenRefine (MARC21-XML) bilden also unsere Ausgangsdaten.
 
-<img width="450" alt="grafik" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/b12b2234-0c12-4de9-a5a9-2ad7e37c6f63">
+<img width="550" alt="grafik" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/b12b2234-0c12-4de9-a5a9-2ad7e37c6f63">
 
+(Bildquelle: [https://pad.gwdg.de/vv-Q4RDnQ22Gqc-EEgbewA#](https://pad.gwdg.de/vv-Q4RDnQ22Gqc-EEgbewA#))
 
 -----
 
