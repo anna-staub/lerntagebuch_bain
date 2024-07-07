@@ -21,12 +21,12 @@ Unter einem Discovery System versteht man ein bibliothekarisches Suchsystem, das
 -----
 
 ## VuFind
-VuFind ist ein solches Discovery System. Es wurde in PHP geschrieben und basiert auf der Solr-Suchmaschine, auf die im nächsten Abschnitt noch eingegangen wird. Das System ermöglicht den Nutzenden eine umfassende Suche und Navigation durch (bibliografische) Datenbanken. Der Ablauf einer Suche mit VuFind funktioniert so, dass VuFind eine HTTP-Anfrage an Solr sendet, welches JSON-Daten zurücksendet. Aus diesen erstellt VuFind eine nutzerfreundlich dargestellte Trefferliste. Bibliotheken können VuFind in ihre Website integrieren, aber auch bibliotheksübergreifende Dienste wie z.B. Swisscovery arbeiten mit VuFind.
+[VuFind](https://vufind.org/vufind/) ist ein solches Discovery System. Es wurde in PHP geschrieben und basiert auf der Solr-Suchmaschine, auf die im nächsten Abschnitt noch eingegangen wird. Das System ermöglicht den Nutzenden eine umfassende Suche und Navigation durch (bibliografische) Datenbanken. Der Ablauf einer Suche mit VuFind funktioniert so, dass VuFind eine HTTP-Anfrage an Solr sendet, welches JSON-Daten zurücksendet. Aus diesen erstellt VuFind eine nutzerfreundlich dargestellte Trefferliste. Bibliotheken können VuFind in ihre Website integrieren, aber auch bibliotheksübergreifende Dienste wie z.B. Swisscovery arbeiten mit VuFind.
 
 -----
 
 ## Solr
-Solr ist eine weit verbreitete, sehr leistungsfähige Suchmaschine, die in Systeme wie VuFind integriert werden kann. Ein prominentes Beispiel, welches Solr als Suchmaschine verwendet, ist Netflix. Die Suche mit Solr funktioniert so, dass das System die eingegebenen Wörter auf ihre Grundform zurückführt (stemming), so dass auch nach weiteren Varianten der Wörter gesucht und damit mehr Ergebnisse gefunden werden. Auch Tippfehler kann die Suchmaschine korrigieren. 
+[Solr](https://solr.apache.org/) ist eine weit verbreitete, sehr leistungsfähige Suchmaschine, die in Systeme wie VuFind integriert werden kann. Ein prominentes Beispiel, welches Solr als Suchmaschine verwendet, ist Netflix. Die Suche mit Solr funktioniert so, dass das System die eingegebenen Wörter auf ihre Grundform zurückführt (stemming), so dass auch nach weiteren Varianten der Wörter gesucht und damit mehr Ergebnisse gefunden werden. Auch Tippfehler kann die Suchmaschine korrigieren. 
 
 -----
 
