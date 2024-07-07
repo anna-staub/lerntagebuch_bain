@@ -26,7 +26,7 @@ BIBFRAME wird seit 2021 auf Initiative der Library of Congress entwickelt und l�
 Das BIBFRAME-Vokabular, ist eine Ontologie und definiert Konzepte und deren Eigenschaften zur Beschreibung der Entitäten im Datenmodell.
 BIBFRAME fokussiert also auf die Erfassung und klare Identifikation von einzelnen Ressourcen oder Identitäten, und auf deren Beziehungen. MARC21 hingegen funktioniert sehr medienzentriert und verlangt Angaben wie z.B. Autorinnen nicht wie BIBFRAME als verlinkte Entität, sondern zwingt einen dazu, diese Entitäten in jedem Datensatz wieder neu zu erfassen, wobei natürlich Redundanzen entstehen und damit das Risiko für Fehler steigt.
 
-Records in Context (RiC)
+### Records in Context (RiC)
 RiC ist der aktuelle Metadatenstandard im Archivwesen. Auch er basiert auf den Prinzipien von Linked Data und ermöglicht neue und mehrfache Beziehungen zwischen Entitäten. Der Standard setzt jedoch andere Schwerpunkte als BIBFRAME, beispielsweise ist die Provenienz im Archivwesen und damit in RiC sehr wichtig. 
 
 
@@ -34,15 +34,14 @@ RiC ist der aktuelle Metadatenstandard im Archivwesen. Auch er basiert auf den P
 
 (Bildquelle: https://www.ica.org/standards/RiC/RiC-O_1-0-1.html)
 
-Linked Open Usable Data (LOUD)
+-----
+
+## Linked Open Usable Data (LOUD)
 Das Konzept Linked Open Usable Data (LOUD) erweitert das Konzept von Linked Open Data (LOD) um den Aspekt der Usability, indem es auf die Perspektive der Nutzenden fokussiert. Das Konzept orientiert sich an [fünf Grundprinzipien](https://linked.art/loud/):
 
 A.	Das passende **A**bstraktionslevel für die Zielgruppe finden
-
 B.	Möglichst wenig **B**arrieren für den Einstieg
-
 C.	Verständlich(**C**omprehensible) durch Introspektion (Die Daten sind so gespeichert, dass Betrachterinnen verstehen worum es geht, ohne Ontologien und Vokabularien konsultieren zu müssen)
-
 D.	**D**okumentation mit praktischen Beispielen
 
 E.	Wenige Ausnahmen (**E**xceptions), viele konsistente Muster
