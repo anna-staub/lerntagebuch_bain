@@ -21,7 +21,7 @@ BIBFRAME wird seit 2021 auf Initiative der Library of Congress entwickelt und l�
 
 ![grafik](https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/2bf87913-73a6-48f8-b91f-5b0dd0bfb9b1)
  
-(Bildquelle: https://www.loc.gov/bibframe/docs/bibframe2-model.html)
+(Bildquelle: [loc.gov](https://www.loc.gov/bibframe/docs/bibframe2-model.html))
 
 Das BIBFRAME-Vokabular, ist eine Ontologie und definiert Konzepte und deren Eigenschaften zur Beschreibung der Entitäten im Datenmodell.
 BIBFRAME fokussiert also auf die Erfassung und klare Identifikation von einzelnen Ressourcen oder Identitäten, und auf deren Beziehungen. MARC21 hingegen funktioniert sehr medienzentriert und verlangt Angaben wie z.B. Autorinnen nicht wie BIBFRAME als verlinkte Entität, sondern zwingt einen dazu, diese Entitäten in jedem Datensatz wieder neu zu erfassen, wobei natürlich Redundanzen entstehen und damit das Risiko für Fehler steigt.
@@ -32,7 +32,7 @@ RiC ist der aktuelle Metadatenstandard im Archivwesen. Auch er basiert auf den P
 
 ![RiC](https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/3e30daa3-0dbc-4318-a961-38677de989f5)
 
-(Bildquelle: https://www.ica.org/standards/RiC/RiC-O_1-0-1.html)
+(Bildquelle: [ica.org/](https://www.ica.org/standards/RiC/RiC-O_1-0-1.html))
 
 -----
 
@@ -40,8 +40,11 @@ RiC ist der aktuelle Metadatenstandard im Archivwesen. Auch er basiert auf den P
 Das Konzept Linked Open Usable Data (LOUD) erweitert das Konzept von Linked Open Data (LOD) um den Aspekt der Usability, indem es auf die Perspektive der Nutzenden fokussiert. Das Konzept orientiert sich an [fünf Grundprinzipien](https://linked.art/loud/):
 
 A.	Das passende **A**bstraktionslevel für die Zielgruppe finden
+
 B.	Möglichst wenig **B**arrieren für den Einstieg
+
 C.	Verständlich(**C**omprehensible) durch Introspektion (Die Daten sind so gespeichert, dass Betrachterinnen verstehen worum es geht, ohne Ontologien und Vokabularien konsultieren zu müssen)
+
 D.	**D**okumentation mit praktischen Beispielen
 
 E.	Wenige Ausnahmen (**E**xceptions), viele konsistente Muster
