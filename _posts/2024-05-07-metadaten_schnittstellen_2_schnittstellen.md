@@ -17,7 +17,7 @@ Der Blogbeitrag zur vorherigen Lehrveranstaltung "Metadaten modellieren" ist [hi
 ## Ausgangsdaten
 In den bisherigen Lehrveranstaltungen haben wir uns mit Metadaten in den Systemen Koha, ArchivesSpace, DSpace und OpenRefine beschäftigt. In der heutigen Veranstaltung ging es darum, wie Metadaten von ebensolchen Systemen geharvested und einheitlich in das Datenformat MARC21-XML konvertiert werden können (siehe Schaubild). Die Daten aus Koha (Format: MARC21-XML), ArchivesSpace (Format: EAD), DSpace (Format: Dublin Core) und OpenRefine (MARC21-XML) bilden also unsere Ausgangsdaten.
 
-<img width="550" alt="grafik" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/b12b2234-0c12-4de9-a5a9-2ad7e37c6f63">
+<img width="700" alt="grafik" src="https://github.com/anna-staub/lerntagebuch_bain/assets/90337803/b12b2234-0c12-4de9-a5a9-2ad7e37c6f63">
 
 (Bildquelle: [https://pad.gwdg.de/vv-Q4RDnQ22Gqc-EEgbewA#](https://pad.gwdg.de/vv-Q4RDnQ22Gqc-EEgbewA#))
 
