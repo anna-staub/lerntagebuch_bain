@@ -37,7 +37,7 @@ RiC ist der aktuelle Metadatenstandard im Archivwesen. Auch er basiert auf den P
 -----
 
 ## Linked Open Usable Data (LOUD)
-Das Konzept Linked Open Usable Data (LOUD) erweitert das Konzept von Linked Open Data (LOD) um den Aspekt der Usability, indem es auf die Perspektive der Nutzenden fokussiert. Das Konzept orientiert sich an [fünf Grundprinzipien](https://linked.art/loud/):
+Das Konzept [Linked Open Usable Data (LOUD)](https://linked.art/loud/) erweitert das Konzept von [Linked Open Data (LOD)](https://de.wikipedia.org/wiki/Linked_Open_Data) um den Aspekt der Usability, indem es auf die Perspektive der Nutzenden fokussiert. Das Konzept orientiert sich an fünf Grundprinzipien:
 
 A.	Das passende **A**bstraktionslevel für die Zielgruppe finden
 
